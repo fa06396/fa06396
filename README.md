@@ -18,4 +18,4 @@ Actively seeking engaging opportunities in Data Science and Deep Learning. Let's
 
 - [LinkedIn](https://www.linkedin.com/in/farazali2686/)
 - [Upwork](https://www.upwork.com/freelancers/~012eebae6bd657566b)
-- Email (farazali20004@gmail.com)
+- Email: farazali20004@gmail.com
