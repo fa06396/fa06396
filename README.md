@@ -8,7 +8,7 @@ In my pursuit of a Bachelor's, I've immersed myself in a comprehensive curriculu
 
 ## 💼 Professional Journey
 
-Currently, I offer freelance services as a Data Scientist on [Upwork](https://www.upwork.com/freelancers/~012eebae6bd657566b), contributing my expertise to various projects. Simultaneously, I serve as the Web Manager at [Heuser](https://www.heuserpk.com/), overseeing and optimizing web-related tasks.
+Currently, I offer freelance services as a Data Scientist on [Upwork](https://www.upwork.com/freelancers/~012eebae6bd657566b), contributing my expertise to various projects. Simultaneously, I serve as the Web Manager at [Heuser](https://www.heuserpk.com/), overseeing and optimizing web-related tasks and am working as a Data Science Research Assistant along with a Ph.D researcher at [SOAS](https://www.soas.ac.uk/)
 
 ## 🚀 Open to Opportunities
 
